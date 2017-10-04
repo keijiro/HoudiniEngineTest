@@ -1,4 +1,4 @@
 [submodule "Assets/HoudiniEngineForUnity"]
 	path = Assets/HoudiniEngineForUnity
 	url = https://github.com/keijiro/HoudiniEngineForUnity.git
-	branch = local-fixes
+	branch = meta-files
